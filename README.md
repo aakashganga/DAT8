@@ -1,4 +1,4 @@
-## DAT8 Course Repository
+## DAT8 Course Repository ##
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/washington-dc/) in Washington, DC (8/18/15 - 10/29/15).
 
